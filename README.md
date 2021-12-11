@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://www.apsu.edu/">
-    <img src="logo.png" alt="Logo" width="240" height="92">
+    <img src="images/logo.png" alt="Logo" width="240" height="92">
   </a>
 
   <h3 align="center">Bulls and Cows</h3>
@@ -38,7 +38,7 @@ This project was built with the following languages and/or framework:
 <!-- LICENSE -->
 ## License
 
-See [LICENSE.txt](https://github.com/Rashaad-Washington/Bulls-And-Cows-Game/blob/main/LICENSE.txt) for more information.
+See [LICENSE.txt](https://github.com/Rashaad-Washington/Bulls-And-Cows-Game/blob/master/LICENSE.txt) for more information.
 
 <!-- CONTACT -->
 ## Contact
