@@ -10,7 +10,7 @@
   <h3 align="center">Bulls and Cows</h3>
 
   <p align="center">
-    Object Oriented
+    Object Oriented Programming
     <br />
   </p>
 </div>
