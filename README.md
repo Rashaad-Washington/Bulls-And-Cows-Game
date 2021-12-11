@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://www.apsu.edu/">
-    <img src="images/APlogo.png" alt="Logo" width="240" height="92">
+    <img src="logo.png" alt="Logo" width="240" height="92">
   </a>
 
   <h3 align="center">Bulls and Cows</h3>
